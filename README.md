@@ -1,0 +1,2 @@
+# HW-ForeachLoops
+A loop is a sequence of statements which is specified once but which may be carried out several times in succession. The code "inside" the loop (the body of the loop, shown below as xxx) is obeyed a specified number of times, or once for each of a collection of items, or until some condition is met, or indefinitely (Links to an external site.)Links to an external site..  Demonstrate concepts to the instructor and describe them in your own words. Put your work to GIT. Submit the GIT url to canvas.
